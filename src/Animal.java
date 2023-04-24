@@ -2,6 +2,7 @@ public class Animal {
 
     private String especie;
 
+
     private int numeroPies;
 
     private String genero;
